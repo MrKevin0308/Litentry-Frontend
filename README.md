@@ -1,8 +1,8 @@
-
 ## Litentry Frontend
 
 Built with React.js + Chakra UI.<br />
-Store encrypted session hash in local stroage of browser and check authentication when polkadot wallet account has changed or it is connected.
+Store encrypted session hash in local stroage of browser and check authentication when polkadot wallet account has changed or it is connected. <br/>
+Deployed url: [https://litentry-frontend.vercel.app/](https://litentry-frontend.vercel.app/)
 
 ### `yarn start`
 
